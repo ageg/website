@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aqua\n"
+"POT-Creation-Date: 2013-01-04 18:34+0200\n"
+"PO-Revision-Date: 2014-02-02 15:20-0500\n"
+"Last-Translator: BlueOwlCreative <contact@blueowlcreative.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:6
+msgid "404 - Page Not Found"
+msgstr "404 - Page non trouvée"
+
+#: ../404.php:12
+msgid "The page you are trying to access does not exist!"
+msgstr "La page que vous recherchez n'existe pas."
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est protégé par un mot de passe. Entrez le mot de passe pour "
+"voir les commentaires."
+
+#: ../comments.php:16
+msgid "No Comments"
+msgstr "Aucun commentaire"
+
+#: ../comments.php:16
+msgid "One Comment"
+msgstr "Un commentaire"
+
+#: ../comments.php:16
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr "Les commentaires sont désactivés."
+
+#: ../comments.php:49
+msgid "Leave A Comment"
+msgstr "Laisser un commentaire"
+
+#: ../comments.php:62
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+#: ../comments.php:62
+msgid "Log out &raquo;"
+msgstr "Déconnexion &raquo;"
+
+#: ../comments.php:69 ../comments.php:92 ../comments.php:98
+msgid "Comment"
+msgstr "Commentaire"
+
+#: ../comments.php:78
+msgid "Name (required)"
+msgstr "Nom (obligatoire)"
+
+#: ../comments.php:82
+msgid "Email (required)"
+msgstr "Courriel (obligatoire)"
+
+#: ../comments.php:86
+msgid "Website"
+msgstr "Site web"
+
+#: ../contact.php:84
+msgid "Contact Form"
+msgstr "Formulaire de contact"
+
+#: ../contact.php:89
+msgid "Please make sure all fields are correctly filled in!"
+msgstr "Veuillez vous assurer que tous les champs sont remplis."
+
+#: ../contact.php:93
+msgid "Your email was successfully sent! Thank you for contacting us!"
+msgstr "Votre courriel a été envoyé avec succès."
+
+#: ../contact.php:98
+msgid "Name"
+msgstr "Nom"
+
+#: ../contact.php:102
+msgid "Email"
+msgstr "Courriel"
+
+#: ../contact.php:106
+msgid "Subject"
+msgstr "Sujet"
+
+#: ../contact.php:110
+msgid "Message"
+msgstr "Message"
+
+#: ../contact.php:114
+msgid "Send"
+msgstr "Envoyé"
+
+#: ../header.php:25
+#, php-format
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: ../header.php:28
+#, php-format
+msgid "Archive: %s"
+msgstr "Archive: %s"
+
+#: ../header.php:31
+#, php-format
+msgid "Search: %s"
+msgstr "Recherche: %s"
+
+#: ../header.php:250 ../includes/boc_custom.php:81
+msgid "Search"
+msgstr "Recherche"
+
+#: ../header.php:287
+msgid "Select Page"
+msgstr "Choisir une page"
+
+#: ../index.php:16
+msgid "Search results for:"
+msgstr "Résultats de la recherche pour:"
+
+#: ../index.php:106 ../single.php:90
+msgid "By "
+msgstr "Par"
+
+#: ../index.php:107 ../single.php:91
+msgid "No comments yet"
+msgstr "Aucun commentaire"
+
+#: ../index.php:107 ../single.php:91
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: ../index.php:107 ../single.php:91
+#, php-format
+msgid "% comments"
+msgstr "% commentaires"
+
+#: ../index.php:107 ../single.php:91
+msgid "Comments are Off"
+msgstr "Les commentaires sont désactivés"
+
+#: ../index.php:122
+msgid "Sorry, no posts matched your criteria."
+msgstr "Désolé, aucun article ne correspond à ces critères."
+
+#: ../portfolio-three-column.php:67
+msgid "Filter:"
+msgstr "Filtre:"
+
+#: ../portfolio-three-column.php:68
+msgid "All"
+msgstr "Tout"
+
+#: ../single-portfolio.php:74
+msgid "Related Portfolio Items"
+msgstr "Éléments suggérés"
+
+#: ../includes/boc_custom.php:14
+msgid "Home"
+msgstr "Accueil"
+
+#: ../includes/boc_custom.php:80
+msgid "404 - Page not Found"
+msgstr "404 - Page non trouvée"
+
+#: ../includes/boc_custom.php:232
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../includes/boc_custom.php:238
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: ../includes/boc_custom.php:244
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération"
+
+#: ../includes/boc_custom.php:312
+msgid "Previous"
+msgstr "Précédent"
+
+#: ../includes/boc_custom.php:322
+msgid "Next"
+msgstr "Suivant"
+
+#: ../includes/customizer_theme-options.php:6
+msgid "Main Menu Styles"
+msgstr "Main Menu Styles"
+
+#: ../includes/shortcodes.php:597
+msgid "Portfolio Items"
+msgstr "Éléments"
